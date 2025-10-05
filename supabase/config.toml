@@ -1,0 +1,4 @@
+project_id = "mbcbpkpcgntrshtnnanr"
+
+[functions.get-weather-fortune]
+verify_jwt = false
